@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center"> Computer Science Engineering</h3>
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=the-ayush-singh&color=blueviolet&style=flat">
+   <img src="https://komarev.com/ghpvc/?username=the-kashish-goyal&color=blueviolet&style=flat">
 </p>
 
 
